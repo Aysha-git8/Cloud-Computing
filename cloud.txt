@@ -1,3 +1,5 @@
 Cloud Computing with Git
-Git supports AWS-DevOps DevOps workflows
+Git supports AWS DevOps workflows
 Feature branch update
+
+AWS-DevOps and AWS-Cloud
