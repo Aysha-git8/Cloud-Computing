@@ -4,3 +4,4 @@ Feature branch update
 
 AWS-DevOps and AWS-Cloud
 Initial pipeline trigger
+Build test
